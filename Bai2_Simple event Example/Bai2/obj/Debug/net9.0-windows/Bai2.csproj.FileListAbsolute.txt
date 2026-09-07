@@ -1,0 +1,16 @@
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.exe
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.deps.json
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.runtimeconfig.json
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.dll
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.pdb
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.Form1.resources
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.csproj.GenerateResource.cache
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.AssemblyInfoInputs.cache
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.AssemblyInfo.cs
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.csproj.CoreCompileInputs.cache
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.dll
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\refint\Bai2.dll
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.pdb
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.genruntimeconfig.cache
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\ref\Bai2.dll
