@@ -1,0 +1,66 @@
+C:\VSCODE\Demo_wf\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.exe
+C:\VSCODE\Demo_wf\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.deps.json
+C:\VSCODE\Demo_wf\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.runtimeconfig.json
+C:\VSCODE\Demo_wf\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.dll
+C:\VSCODE\Demo_wf\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.pdb
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.Form1.resources
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.csproj.GenerateResource.cache
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.AssemblyInfoInputs.cache
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.AssemblyInfo.cs
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.csproj.CoreCompileInputs.cache
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.dll
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\refint\Demo_wf.dll
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.pdb
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.genruntimeconfig.cache
+C:\VSCODE\Demo_wf\Demo_wf\obj\Debug\net9.0-windows\ref\Demo_wf.dll
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.exe
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.deps.json
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.runtimeconfig.json
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.dll
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.pdb
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.Form1.resources
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.csproj.GenerateResource.cache
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.AssemblyInfoInputs.cache
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.AssemblyInfo.cs
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.csproj.CoreCompileInputs.cache
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.dll
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\refint\Demo_wf.dll
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.pdb
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.genruntimeconfig.cache
+C:\VSCODE\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\ref\Demo_wf.dll
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.exe
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.deps.json
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.runtimeconfig.json
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.dll
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.pdb
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.Form1.resources
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.csproj.GenerateResource.cache
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.AssemblyInfoInputs.cache
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.AssemblyInfo.cs
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.csproj.CoreCompileInputs.cache
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.sourcelink.json
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.dll
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\refint\Demo_wf.dll
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.pdb
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.genruntimeconfig.cache
+D:\C#\BTLT3\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\ref\Demo_wf.dll
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.exe
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.deps.json
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.runtimeconfig.json
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.dll
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\bin\Debug\net9.0-windows\Demo_wf.pdb
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.Form1.resources
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.csproj.GenerateResource.cache
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.AssemblyInfoInputs.cache
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.AssemblyInfo.cs
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.csproj.CoreCompileInputs.cache
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.sourcelink.json
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.dll
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\refint\Demo_wf.dll
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.pdb
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\Demo_wf.genruntimeconfig.cache
+D:\C#\BTLT3\Bài 1\Bai1_Sử dụng Lable với TextBox\Demo_wf\obj\Debug\net9.0-windows\ref\Demo_wf.dll

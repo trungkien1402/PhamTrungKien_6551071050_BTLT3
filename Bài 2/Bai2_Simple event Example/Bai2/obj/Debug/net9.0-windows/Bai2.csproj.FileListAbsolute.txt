@@ -1,0 +1,33 @@
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.exe
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.deps.json
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.runtimeconfig.json
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.dll
+C:\VSCODE\Bai2\Bai2\bin\Debug\net9.0-windows\Bai2.pdb
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.Form1.resources
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.csproj.GenerateResource.cache
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.AssemblyInfoInputs.cache
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.AssemblyInfo.cs
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.csproj.CoreCompileInputs.cache
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.dll
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\refint\Bai2.dll
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.pdb
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\Bai2.genruntimeconfig.cache
+C:\VSCODE\Bai2\Bai2\obj\Debug\net9.0-windows\ref\Bai2.dll
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\bin\Debug\net9.0-windows\Bai2.exe
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\bin\Debug\net9.0-windows\Bai2.deps.json
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\bin\Debug\net9.0-windows\Bai2.runtimeconfig.json
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\bin\Debug\net9.0-windows\Bai2.dll
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\bin\Debug\net9.0-windows\Bai2.pdb
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.Form1.resources
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.csproj.GenerateResource.cache
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.AssemblyInfoInputs.cache
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.AssemblyInfo.cs
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.csproj.CoreCompileInputs.cache
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.sourcelink.json
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.dll
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\refint\Bai2.dll
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.pdb
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\Bai2.genruntimeconfig.cache
+D:\C#\BTLT3\Bài 2\Bai2_Simple event Example\Bai2\obj\Debug\net9.0-windows\ref\Bai2.dll

@@ -1,0 +1,17 @@
+D:\Lập trình web\câu 6\câu 6\bin\Debug\net9.0-windows\câu 6.exe
+D:\Lập trình web\câu 6\câu 6\bin\Debug\net9.0-windows\câu 6.deps.json
+D:\Lập trình web\câu 6\câu 6\bin\Debug\net9.0-windows\câu 6.runtimeconfig.json
+D:\Lập trình web\câu 6\câu 6\bin\Debug\net9.0-windows\câu 6.dll
+D:\Lập trình web\câu 6\câu 6\bin\Debug\net9.0-windows\câu 6.pdb
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu_6.Form1.resources
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu_6.Properties.Resources.resources
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu 6.csproj.GenerateResource.cache
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu 6.AssemblyInfoInputs.cache
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu 6.AssemblyInfo.cs
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu 6.csproj.CoreCompileInputs.cache
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu 6.dll
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\refint\câu 6.dll
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu 6.pdb
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\câu 6.genruntimeconfig.cache
+D:\Lập trình web\câu 6\câu 6\obj\Debug\net9.0-windows\ref\câu 6.dll
